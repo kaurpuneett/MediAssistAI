@@ -1,0 +1,22 @@
+
+# Environment variables and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Editor and system files
+.vscode/
+.DS_Store
+frontend/public/videos/welcome.mp4
